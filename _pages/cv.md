@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download paper here](https://github.com/Dichter97/AcademicPage/files/CV.pdf)
 {% include base_path %}
-
+[Download paper here](https://github.com/Dichter97/AcademicPage/files/CV.pdf)
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
