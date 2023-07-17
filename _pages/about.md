@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABout me"
+title: "Xin Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
