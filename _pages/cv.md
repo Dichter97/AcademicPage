@@ -89,6 +89,7 @@ Skills
 Publications
 ======
 * Journal
+
 Multi-year Planning for the Integration Combining Distributed Energy System and Electric Vehicle in Neighborhood Based on Data-driven Model
 Xin Li, Lunding Guo, Yuchen He, Guotian Yang,
 International Journal of Electrical Power and Energy Systems, Q1, 2022,published
