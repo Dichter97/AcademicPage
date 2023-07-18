@@ -12,7 +12,6 @@ redirect_from:
 
 Education
 ======
-* 
 * M.S. in Control Science and Engineering, North China Electric Power University, 2022
 * B.S. in Automation , North China Electric Power University, 2019
 
