@@ -125,19 +125,4 @@ Conference on Smart Power & Internet Energy Systems (SPIES), 2021
 
 Carbon neutral planning for high percentage of renewable power systems considering WIPP as inertia support, Zensen Wang, Xin Li, Yu Li, Tianqi Zhao, Xue Xia, Hanzhi Zhang, 2021 IEEE
 Sustainable Power and Energy Conference (iSPEC), 2021
-<!--   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams  -->
+
