@@ -14,4 +14,4 @@ I used to have a strong passion for literature and have written some poetry and 
 
 I also have a strong interest in photography, particularly in capturing landscapes and astronomical subjects. The night sky holds significant importance in my life experiences. Additionally, I enjoy outdoor activities and some ball sports, maintaining a regular exercise routine on a weekly basis.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!--This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
