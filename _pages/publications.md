@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Journal
+Journal
+======
+
 Multi-year Planning for the Integration Combining Distributed Energy System and Electric Vehicle in Neighborhood Based on Data-driven Model
 Xin Li, Lunding Guo, Yuchen He, Guotian Yang,
 International Journal of Electrical Power and Energy Systems, Q1, 2022,published
@@ -26,16 +28,13 @@ customer satisfaction constraint
 Yukai Li, Jiabing Han, Quan Wang, Meng Yang, Jun Zhao, Xin Li, Xinli Li
 Journal of North China Electric Power University(CN), 2021, published
 
-Research on integrated energy supply priority scheduling based on Fbprophet load forecast and
-customer satisfaction constraint
-Yukai Li, Jiabing Han, Quan Wang, Meng Yang, Jun Zhao, Xin Li, Xinli Li
-Journal of North China Electric Power University(CN), 2021, published
 
 Modeling of boiler variable-load combustion system based on GBDT-BidGRU
 Guotian Yang, Yuchen He, Xin Li, Xinli Li
 Thermoelectric Power Generation(CN), 2021, published
 
-* Conference
+Conference
+======
 Power system evolutionary planning based on LHS-kmeans method for generating future load scenarios, Zensen Wang, Xin Li, Yu Li, Tianqi Zhao, Xue Xia, Hanzhi Zhang, 2021 3rd International
 Conference on Smart Power & Internet Energy Systems (SPIES), 2021
 
