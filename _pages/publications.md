@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-publication test
+
 * Journal
 Multi-year Planning for the Integration Combining Distributed Energy System and Electric Vehicle in Neighborhood Based on Data-driven Model
 Xin Li, Lunding Guo, Yuchen He, Guotian Yang,
@@ -36,18 +36,10 @@ Guotian Yang, Yuchen He, Xin Li, Xinli Li
 Thermoelectric Power Generation(CN), 2021, published
 
 * Conference
-ower system evolutionary planning based on LHS-kmeans method for generating future load scenarios, Zensen Wang, Xin Li, Yu Li, Tianqi Zhao, Xue Xia, Hanzhi Zhang, 2021 3rd International
+Power system evolutionary planning based on LHS-kmeans method for generating future load scenarios, Zensen Wang, Xin Li, Yu Li, Tianqi Zhao, Xue Xia, Hanzhi Zhang, 2021 3rd International
 Conference on Smart Power & Internet Energy Systems (SPIES), 2021
 
 Carbon neutral planning for high percentage of renewable power systems considering WIPP as inertia support, Zensen Wang, Xin Li, Yu Li, Tianqi Zhao, Xue Xia, Hanzhi Zhang, 2021 IEEE
 Sustainable Power and Energy Conference (iSPEC), 2021
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=M4kG3V8AAAAJ)}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
