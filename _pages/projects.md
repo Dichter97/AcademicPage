@@ -45,29 +45,29 @@ Research Projects
 * Reserach Assistance: 2020.01-2021.01 in North China Electric Power University
 
   * Research on key technologies for the operation of integrated energy systems containingmultiple energy supplies and outputs.
-  * Overview: Designing the operation strategies for the integrated in an industrial park. Project for State Grid Shandong Electric Power Company
-  * My Work: 1. I helped model the operation and management of the integrated energy systems; 2. I proposed some optimal operation methods based on heuristic PSO; 3. I analyzed the energysystem efficiency and economic aspects of the relevant optimization algorithms and incorporatecthem into the final report.
+    * Overview: Designing the operation strategies for the integrated in an industrial park. Project for State Grid Shandong Electric Power Company
+    * My Work: 1. I helped model the operation and management of the integrated energy systems; 2. I proposed some optimal operation methods based on heuristic PSO; 3. I analyzed the energysystem efficiency and economic aspects of the relevant optimization algorithms and incorporatecthem into the final report.
   
   * Technique system evaluation for construction of State Grid's Lanzhou national new areaenergy innovation park 
-  * Overview: Evaluating and desiging the development plann on energy-related technques in anational new park.Project for State Grid Gansu Electric Power Company
-  * My Work: 1. Technique Review: I helped review the cutting-edge energy techniques accordingto their deveploment and application; 2. System module designing: I was responsible for planningsome modules of the digital technology system suitable for the Energy Internet Unifcation Park; 3. Recommendation: I helped recommend technology direction and research pathway setting.
+    * Overview: Evaluating and desiging the development plann on energy-related technques in anational new park.Project for State Grid Gansu Electric Power Company
+    * My Work: 1. Technique Review: I helped review the cutting-edge energy techniques accordingto their deveploment and application; 2. System module designing: I was responsible for planningsome modules of the digital technology system suitable for the Energy Internet Unifcation Park; 3. Recommendation: I helped recommend technology direction and research pathway setting.
    
   * Flame image based combustion feature detection and combustion stability research forthermal plants
-  * Overview: Combustion fexibility modelling based on flame video, in which we apply computerversion techniques and deep learning methods.
-  * My Work: 1. Feature modelling: We estibulished a new type of flame image static features bygabor-GLCM, I proposed hybrid dynamic features of fame image based on DIS and Dense optical flow; 2. Deepling methonds: I conducted oxygen content regression prediction model as well as statemonitoring model using improved LSTM and GRU based on multi-feature fusion.
+    * Overview: Combustion fexibility modelling based on flame video, in which we apply computerversion techniques and deep learning methods.
+    * My Work: 1. Feature modelling: We estibulished a new type of flame image static features bygabor-GLCM, I proposed hybrid dynamic features of fame image based on DIS and Dense optical flow; 2. Deepling methonds: I conducted oxygen content regression prediction model as well as statemonitoring model using improved LSTM and GRU based on multi-feature fusion.
   
 * Research Internship: 2021.01-2021.12 in Jibei Electric Power Research nstitute
   * Study on the development pathway for future power system with high RES penetrationconsidering source-grid-load coordination based on China's carbon neutral policy
-  * Overview: Designing future power system and decarbonization pathway considering high renewable penetration and system stability.
-  * My Work: 1. I participated in low-inertia power system planning, load supporting strategiesdesigning, and "source-grid-load" coordination considering the uncertain fluctuation from RES; 2. I helped analyse the carbon neutral constrains of future power system; 3. I designed and simulatecpathways of future power system.
+    * Overview: Designing future power system and decarbonization pathway considering high renewable penetration and system stability.
+    * My Work: 1. I participated in low-inertia power system planning, load supporting strategiesdesigning, and "source-grid-load" coordination considering the uncertain fluctuation from RES; 2. I helped analyse the carbon neutral constrains of future power system; 3. I designed and simulatecpathways of future power system.
    
   *  Research on interaction response techniques designed for large-scale flexible resource ondemand side to accomodate high penetration of renewable energy
-  *  Overview: Developing coordination strategies on demand side to help accomodate high penetration of renewable energy.
-  *  My Work: 1. Scenario modelling: I helped conduct demand-side characteristics modelling underdifferent fexible demand scenarios; 2. Data analysis: I participated in analyzing data of operation tomodel the grid-side flexibility demand; 3. Case study: I helped simulate the operation of the powersystem with high penetration of renewable energy considering the demand flexibility.
+     *  Overview: Developing coordination strategies on demand side to help accomodate high penetration of renewable energy.
+     *  My Work: 1. Scenario modelling: I helped conduct demand-side characteristics modelling underdifferent fexible demand scenarios; 2. Data analysis: I participated in analyzing data of operation tomodel the grid-side flexibility demand; 3. Case study: I helped simulate the operation of the powersystem with high penetration of renewable energy considering the demand flexibility.
     
   *  Research on the deployment and integrating strategies for the large-scale renewable energy hubs
-  *  Overview: Investigating accomodation strategies for renewable energy hub.
-  *  My Work: 1. Output forecast: I using deeplearning method to forecast the coordination scenarios of renewable energy and the integrated power system; 2. Scenarios modelling: I helped simulatescenarios of the future renewable energy with different penetration percentages in the generationside of the whole power systems.
+     *  Overview: Investigating accomodation strategies for renewable energy hub.
+     *  My Work: 1. Output forecast: I using deeplearning method to forecast the coordination scenarios of renewable energy and the integrated power system; 2. Scenarios modelling: I helped simulatescenarios of the future renewable energy with different penetration percentages in the generationside of the whole power systems.
     
 
 
