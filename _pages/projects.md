@@ -33,6 +33,11 @@ Industry Projects
   * Overview: Developing an operational optimization strategy for integrated production of hydrogen and ammonia using solar. wind.
   * My Work: I participated in designing a system decision model for PtX production based onelectricity market prices
 
+Master Thesis
+======
+* Game-theoretic scheduling in integrated energy system considering energy flexibility fromconsumers
+* Main Work: Focus on how local residents can beneft from their flexibility in community energymanagement; 1. I analysed the behavior, satisfaction characteristic and thermal & energy fexibilitof diferent types of consumers(residential, commercial, and industrial) for flexibility & satisfactionmodelling; 2. I designed the system operating, energy management model and revenue distributingmechanism for energy supply aggregators considering flexibility from demand; 3.I optimized theoperation and demand response of the community energy system based on game theory, with a case study.
+  
 Research Projects
 ======
 
@@ -64,6 +69,5 @@ Research Projects
   *  Overview: Investigating accomodation strategies for renewable energy hub.
   *  My Work: 1. Output forecast: I using deeplearning method to forecast the coordination scenarios of renewable energy and the integrated power system; 2. Scenarios modelling: I helped simulatescenarios of the future renewable energy with different penetration percentages in the generationside of the whole power systems.
     
-* Master Thesis:  Game-theoretic scheduling in integrated energy system considering energy flexibility fromconsumers
-  * Main Work: Focus on how local residents can beneft from their flexibility in community energymanagement; 1. I analysed the behavior, satisfaction characteristic and thermal & energy fexibilitof diferent types of consumers(residential, commercial, and industrial) for flexibility & satisfactionmodelling; 2. I designed the system operating, energy management model and revenue distributingmechanism for energy supply aggregators considering flexibility from demand; 3.I optimized theoperation and demand response of the community energy system based on game theory, with a casestudw.
+
 
