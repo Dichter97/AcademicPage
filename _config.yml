@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Xin Li"
+title                    : "Xin Li"
 title_separator          : "-"
 name                     : &name "Xin Li"
 description              : &description "personal description"

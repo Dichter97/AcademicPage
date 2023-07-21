@@ -43,7 +43,7 @@ Carbon neutral planning for high percentage of renewable power systems consideri
 Sustainable Power and Energy Conference (iSPEC), 2021
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=M4kG3V8AAAAJ)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}

@@ -78,8 +78,13 @@ Skills
 * Machine Learning
   * Scikit-learning
   * Keras
-* Computer Version
+
 * Git
+
+* Computer Version
+  * OpenCV
+  * skimage
+
 * Academic Writing
   * Latex
   * Visio
