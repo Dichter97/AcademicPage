@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV here](https://github.com/Dichter97/AcademicPage/files/CV.pdf)
+
 {% include base_path %}
 
 
