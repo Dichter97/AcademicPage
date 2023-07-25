@@ -54,7 +54,7 @@ Research Projects
    
   * Flame image based combustion feature detection and combustion stability research forthermal plants
     * Overview: Combustion fexibility modelling based on flame video, in which we apply computerversion techniques and deep learning methods.
-    * My Work: 1. Feature modelling: We estibulished a new type of flame image static features bygabor-GLCM, I proposed hybrid dynamic features of fame image based on DIS and Dense optical flow; 2. Deepling methonds: I conducted oxygen content regression prediction model as well as statemonitoring model using improved LSTM and GRU based on multi-feature fusion.
+    * My Work: 1. Feature modelling: We estibulished a new type of flame image static features bygabor-GLCM, I proposed hybrid dynamic features of fame image based on DIS and Dense optical flow; 2. Deep learning methonds: I conducted oxygen content regression prediction model as well as statemonitoring model using improved LSTM and GRU based on multi-feature fusion.
   
 * Research Internship: 2021.01-2021.12 in Jibei Electric Power Research nstitute
   * Study on the development pathway for future power system with high RES penetrationconsidering source-grid-load coordination based on China's carbon neutral policy
