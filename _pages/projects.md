@@ -36,7 +36,8 @@ Industry Projects
 Master Thesis
 ======
 * Game-theoretic scheduling in integrated energy system considering energy flexibility fromconsumers
-* Main Work: Focus on how local residents can beneft from their flexibility in community energymanagement; 1. I analysed the behavior, satisfaction characteristic and thermal & energy fexibilitof diferent types of consumers(residential, commercial, and industrial) for flexibility & satisfactionmodelling; 2. I designed the system operating, energy management model and revenue distributingmechanism for energy supply aggregators considering flexibility from demand; 3.I optimized theoperation and demand response of the community energy system based on game theory, with a case study.
+* Main Work: Focus on how consumers can benefit from their energy flexibility in community distributed energy system 1. I analysed the behavior, satisfaction characteristic and thermal & energy flexibility of different types of consumers (residential, commercial, and industrial)fffor flexibility & satisfaction modelling, and managed to formulate the model; 2. I designed the system operating, energy management model and revenue distributing mechanism for distributed energy system  perators considering flexibility from consumer; 3.I optimized the operation and demand response of the community energy system based on game theory with a case study, which can adjust according to consumer comfort and load peak in hourly period.
+
   
 Research Projects
 ======
