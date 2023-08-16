@@ -15,8 +15,8 @@ main:
   - title: "Hobby"
     url: /hobby/
         
-  # - title: "Blog Posts"
-    # url: /year-archive/
+  - title: "MasterThesis"
+    url: /masterthesis/
     
 
     
